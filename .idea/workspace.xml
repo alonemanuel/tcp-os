@@ -9,6 +9,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="bcc674a0-74c0-4a77-ae6c-c8cbf5d5d6a4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/desktop.ini" beforeDir="false" afterPath="$PROJECT_DIR$/desktop.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/desktop.ini" beforeDir="false" afterPath="$PROJECT_DIR$/docs/desktop.ini" afterDir="false" />
@@ -17,6 +18,10 @@
       <change beforePath="$PROJECT_DIR$/src/.idea/src.iml" beforeDir="false" afterPath="$PROJECT_DIR$/src/.idea/src.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/desktop.ini" beforeDir="false" afterPath="$PROJECT_DIR$/src/desktop.ini" afterDir="false" />
+=======
+    <list default="true" id="15f719bd-3a95-4714-92e0-78f1feef0870" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/.idea/workspace.xml" afterDir="false" />
+>>>>>>> 5d886eba87ad037678d63157a08ca46802c1693f
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,11 +30,19 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
+<<<<<<< HEAD
     <session id="1827666619">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="1" />
           <entry key="project.open.time.2" value="1" />
+=======
+    <session id="-2017929934">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+>>>>>>> 5d886eba87ad037678d63157a08ca46802c1693f
           <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
@@ -45,15 +58,25 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
+<<<<<<< HEAD
     <option name="x" value="951" />
     <option name="width" value="978" />
     <option name="height" value="1089" />
+=======
+    <option name="x" value="950" />
+    <option name="width" value="979" />
+    <option name="height" value="1090" />
+>>>>>>> 5d886eba87ad037678d63157a08ca46802c1693f
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
+=======
+      <pane id="Scope" />
+>>>>>>> 5d886eba87ad037678d63157a08ca46802c1693f
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -64,18 +87,33 @@
             <path>
               <item name="Ex5" type="b2602c69:ProjectViewProjectNode" />
               <item name="Ex5" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
+=======
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Ex5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Ex5" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 5d886eba87ad037678d63157a08ca46802c1693f
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+<<<<<<< HEAD
       <pane id="Scope" />
+=======
+>>>>>>> 5d886eba87ad037678d63157a08ca46802c1693f
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+<<<<<<< HEAD
     <property name="last_opened_file_path" value="D:/OS/Ex5/src" />
+=======
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+>>>>>>> 5d886eba87ad037678d63157a08ca46802c1693f
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -96,16 +134,26 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="bcc674a0-74c0-4a77-ae6c-c8cbf5d5d6a4" name="Default Changelist" comment="" />
       <created>1561806048714</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1561806048714</updated>
       <workItem from="1561806050178" duration="33000" />
+=======
+      <changelist id="15f719bd-3a95-4714-92e0-78f1feef0870" name="Default Changelist" comment="" />
+      <created>1561806093459</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561806093459</updated>
+      <workItem from="1561806094620" duration="17000" />
+>>>>>>> 5d886eba87ad037678d63157a08ca46802c1693f
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="33000" />
   </component>
   <component name="ToolWindowManager">
@@ -113,6 +161,15 @@
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24930748" />
+=======
+    <option name="totallyTimeSpent" value="17000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="760" y="0" width="783" height="872" extended-state="0" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24896266" />
+>>>>>>> 5d886eba87ad037678d63157a08ca46802c1693f
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
